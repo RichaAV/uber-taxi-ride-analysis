@@ -51,7 +51,9 @@ To design a business intelligence dashboard that provides meaningful insights in
 * Line chart for Total Trips by Day of the Week
 * Area chart for Trips by Pickup Time (binned)
 * Drill-through pages for detailed location and day analysis
-* <a href="https://github.com/RichaAV/uber-taxi-ride-analysis/blob/main/dashboard_image.png" target=_blank">View Dashboard</a>
+* <a href="https://github.com/RichaAV/uber-taxi-ride-analysis/blob/main/dashboard_image.png">View Dashboard Screenshot</a>
+* <a href="https://github.com/RichaAV/uber-taxi-ride-analysis/blob/main/uber-analytics.pbix">Download Power BI (.pbix) file</a>
+
 
 ## Key Insights
 * 117K total trips were recorded within the data period.
