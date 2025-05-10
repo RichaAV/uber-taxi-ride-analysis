@@ -18,12 +18,11 @@ To design a business intelligence dashboard that provides meaningful insights in
 ## Tools and Technologies Used
 * Power BI: Data Modeling, Visualization, DAX calculations
 * Power Query: Data cleaning and transformation
-* Excel: Source data files (.xlsx)
 
 ## Process Followed
 ### 1. Data Collection
-* Trip Details.xlsx containing trip-level records (fare amount, trip distance, pickup datetime, payment type, etc.)
-* Location Table.csv mapping location IDs to location names.
+* <a href="https://github.com/RichaAV/uber-taxi-ride-analysis/blob/main/trip-details.xlsx" target=_blank">Trip Details.xlsx</a> containing trip-level records (fare amount, trip distance, pickup datetime, payment type, etc.)
+* <a href="https://github.com/RichaAV/uber-taxi-ride-analysis/blob/main/location-table.csv" target=_blank">Location Table.csv</a> mapping location IDs to location names.
 
 ### 2. Data Cleaning (Power Query)
 * Removed unnecessary columns.
@@ -52,6 +51,7 @@ To design a business intelligence dashboard that provides meaningful insights in
 * Line chart for Total Trips by Day of the Week
 * Area chart for Trips by Pickup Time (binned)
 * Drill-through pages for detailed location and day analysis
+* <a href="https://github.com/RichaAV/uber-taxi-ride-analysis/blob/main/dashboard_image.png" target=_blank">View Dashboard</a>
 
 ## Key Insights
 * 117K total trips were recorded within the data period.
