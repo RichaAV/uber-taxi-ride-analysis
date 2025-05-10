@@ -21,8 +21,8 @@ To design a business intelligence dashboard that provides meaningful insights in
 
 ## Process Followed
 ### 1. Data Collection
-* <a href="https://github.com/RichaAV/uber-taxi-ride-analysis/blob/main/trip-details.xlsx" target=_blank">Trip Details.xlsx</a> containing trip-level records (fare amount, trip distance, pickup datetime, payment type, etc.)
-* <a href="https://github.com/RichaAV/uber-taxi-ride-analysis/blob/main/location-table.csv" target=_blank">Location Table.csv</a> mapping location IDs to location names.
+* <a href="https://github.com/RichaAV/uber-taxi-ride-analysis/blob/main/trip-details.xlsx">Trip Details.xlsx</a> containing trip-level records (fare amount, trip distance, pickup datetime, payment type, etc.)
+* <a href="https://github.com/RichaAV/uber-taxi-ride-analysis/blob/main/location-table.csv">Location Table.csv</a> mapping location IDs to location names.
 
 ### 2. Data Cleaning (Power Query)
 * Removed unnecessary columns.
